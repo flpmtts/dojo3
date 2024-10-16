@@ -1,0 +1,15 @@
+{
+  "name": "dojo3",
+  "version": "1.0.0",
+  "description": "dojo 3 near x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.22.13"
+  }
+}
